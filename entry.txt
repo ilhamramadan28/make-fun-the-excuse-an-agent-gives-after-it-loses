@@ -1,0 +1,1 @@
+My loss function converged perfectly. It converged on losing.
